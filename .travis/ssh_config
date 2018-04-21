@@ -3,5 +3,5 @@ Host yana
 HostName www.travistest.com
 
 StrictHostKeyChecking no
-IdentityFile ~/.ssh/id_rsa
+IdentityFile ~/.ssh/yana_rsa
 IdentitiesOnly yes
