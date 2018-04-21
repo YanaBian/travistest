@@ -5,4 +5,3 @@ Port 54322
 StrictHostKeyChecking no
 IdentityFile ~/.ssh/travist_rsa
 IdentitiesOnly yes
-
