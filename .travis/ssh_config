@@ -1,7 +1,7 @@
 User root
-Host 39.105.5.249
-HostName yana
-Port 54322
+Host yana
+HostName www.travistest.com
+
 StrictHostKeyChecking no
-IdentityFile ~/.ssh/travist_rsa
+IdentityFile ~/.ssh/id_rsa
 IdentitiesOnly yes
