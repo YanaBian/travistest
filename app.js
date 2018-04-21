@@ -11,6 +11,8 @@ app.use(router(_ => {
     })
 }));
 app.use(convert(serve(path.join(__dirname, './public')))); //静态资源文件
-app.listen(3003, () => {
-    console.log('Server Start');
-});
+// app.listen(3003, () => {
+//     console.log('Server Start');
+// });
+app.listen(3003);
+module.exports = app;
